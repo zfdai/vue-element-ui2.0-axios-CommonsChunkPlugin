@@ -21,7 +21,7 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # vue-element-ui-axios-CommonsChunkPlugin
 > 开发环境
-![Image](https://github.com/zfdai/vue-element-ui2.0-axios-CommonsChunkPlugin/tree/master/gitImages/开发环境.png)
+![image](https://github.com/zfdai/vue-element-ui2.0-axios-CommonsChunkPlugin/tree/master/gitImages/开发环境.png)
 #
 > 生产环境
-![Image](https://github.com/zfdai/vue-element-ui2.0-axios-CommonsChunkPlugin/tree/master/gitImages/打包环境.png)
+![image](https://github.com/zfdai/vue-element-ui2.0-axios-CommonsChunkPlugin/tree/master/gitImages/打包环境.png)
