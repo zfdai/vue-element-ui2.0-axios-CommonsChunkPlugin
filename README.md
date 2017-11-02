@@ -1,6 +1,6 @@
-# inmind_v2.0
+# vue_base_frame
 
-> inmind
+> vue_base_frame
 
 ## Build Setup
 
