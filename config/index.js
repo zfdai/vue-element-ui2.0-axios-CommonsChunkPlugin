@@ -34,7 +34,9 @@ module.exports = {
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
     // 打包之后本地运行
-    assetsPublicPath: '/vue_base_frame/dist/',
+    // assetsPublicPath: '/vue_base_frame/dist/',
+    // ueboy 生产 二级目录 运行
+    assetsPublicPath: '/vue_base_frame/',
     // 发布到生产 运行
     // assetsPublicPath: '/',
     productionSourceMap: false,

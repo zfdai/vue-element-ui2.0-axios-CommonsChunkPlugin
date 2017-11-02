@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <router-link :to="{name:'test'}">User</router-link>
+    <router-link :to="{name:'test'}">vue-router跳转</router-link>
     <el-radio v-model="radio" label="1">备选项111</el-radio>
   <el-radio v-model="radio" label="2">备选项</el-radio>
     <div>
