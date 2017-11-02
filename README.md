@@ -22,6 +22,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # vue-element-ui-axios-CommonsChunkPlugin
 
 # 开发环境
-![image](https://github.com/zfdai/vue-element-ui2.0-axios-CommonsChunkPlugin/blob/tree/master/screenshots/dev.png)
+![image](https://github.com/zfdai/vue-element-ui2.0-axios-CommonsChunkPlugin/tree/master/screenshots/dev.png)
 # 生产环境
-![image](https://github.com/zfdai/vue-element-ui2.0-axios-CommonsChunkPlugin/blob/tree/master/screenshots/prod.png)
+![image](https://github.com/zfdai/vue-element-ui2.0-axios-CommonsChunkPlugin/tree/master/screenshots/prod.png)
