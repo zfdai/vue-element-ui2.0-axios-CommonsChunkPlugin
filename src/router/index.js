@@ -1,16 +1,15 @@
 
-import HelloWorld from '@/components/HelloWorld'
 
 let router = [
 	{
 	  path: '/',
 	  name: 'Hello',
-	  component: HelloWorld
+	  component: ()=>import('@/pages/HelloWorld')
 	},
 	{
 	  path: '/test',
 	  name: 'test',
-	  component: ()=>import('@/components/test')
+	  component: ()=>import('@/pages/test')
 	}
 ]
 
