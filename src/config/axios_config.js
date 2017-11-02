@@ -1,6 +1,5 @@
 let axiosConfig = {
     init() { 
-        // Vue.prototype.axios = axios;
         // axios.defaults.baseURL = config.apiConfig.originUrl;
         axios.interceptors.request.use(function (config) {
             // config.headers.common['Authorization'] = 'bearer '+_parse_storage.access_token;

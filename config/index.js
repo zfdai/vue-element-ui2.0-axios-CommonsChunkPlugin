@@ -12,7 +12,7 @@ module.exports = {
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
     // 打包之后本地运行
-    // assetsPublicPath: '/inmind_v2.0/dist/',
+    // assetsPublicPath: '/vue_base_frame/dist/',
     // 发布到生产 运行
     assetsPublicPath: '/',
     productionSourceMap: false,
@@ -34,7 +34,7 @@ module.exports = {
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
     // 打包之后本地运行
-    assetsPublicPath: '/inmind_v2.0/dist/',
+    assetsPublicPath: '/vue_base_frame/dist/',
     // 发布到生产 运行
     // assetsPublicPath: '/',
     productionSourceMap: false,
