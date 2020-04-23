@@ -11,7 +11,7 @@
     "test": "node build/build_test.js"
   },
   "dependencies": {
-    "axios": "^0.17.0",
+    "axios": "^0.19.2",
     "element-ui": "^2.0.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
